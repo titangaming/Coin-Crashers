@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Brew Buddy/controllers/additionalControl.swift"
+            timestampString = "570212568.4700119"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "coffeeMakerName"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UILabel in variable initialization expression of Brew_Buddy.additionalControl.coffeeMakerName : __C.UILabel"
+                  moduleName = "Brew Buddy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexcevicelow/Desktop/Brew%20Buddy/Brew%20Buddy/controllers/additionalControl.swift"
+                  timestampString = "570064862.159422"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "14">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Brew_Buddy.additionalControl.coffeeMakerName.getter : __C.UILabel"
+                  moduleName = "Brew Buddy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexcevicelow/Desktop/Brew%20Buddy/Brew%20Buddy/controllers/additionalControl.swift"
+                  timestampString = "570064862.1628439"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Brew_Buddy.additionalControl.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Brew_Buddy.additionalControl"
+                  moduleName = "Brew Buddy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexcevicelow/Desktop/Brew%20Buddy/Brew%20Buddy/controllers/additionalControl.swift"
+                  timestampString = "570064862.1666811"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Brew_Buddy.additionalControl.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Brew_Buddy.additionalControl&gt;"
+                  moduleName = "Brew Buddy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexcevicelow/Desktop/Brew%20Buddy/Brew%20Buddy/controllers/additionalControl.swift"
+                  timestampString = "570064862.169731"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "301">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Brew Buddy/controllers/customLaunchScreen.swift"
+            timestampString = "575031435.976962"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Brew Buddy/controllers/customLaunchScreen.swift"
+            timestampString = "575031435.977075"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
